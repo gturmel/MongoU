@@ -1,0 +1,28 @@
+<head>
+	<style>
+		body { font-family: 'Helvetica', 'Arial', sans-serif; }
+		ul { list-style-type: none; }
+		li { margin: 20px 0; }
+	</style>
+</head>
+
+<form action="/post-movie" method="POST">
+	<ul>
+		<li>
+			<label for="title">Movie Title:</label>
+			<input id='title' name="title" placeholder="Movie Title" />
+		</li>
+		<li>
+			<label for="year">Movie Year:</label>
+			<input id="year" name="year" placeholder="Movie Year" />
+		</li>
+		<li>
+			<label for="imdb">IMDB ID:</label>
+			<input id="imdb" name="imdb" placeholder="IMDB ID" />
+		</li>
+		<li>
+			<button type="submit">Submit Form</button>
+
+		</li>
+	</ul>
+</form>
