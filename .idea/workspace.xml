@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eae2cf38-465a-4940-8221-a7aa367a0c19" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeekThree/buildingQueryDocuments/buildingQueryDocuments/buildingQueryDocuments.js" beforeDir="false" afterPath="$PROJECT_DIR$/WeekThree/buildingQueryDocuments/buildingQueryDocuments/buildingQueryDocuments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeekThree/findAndCursorsInNodeJSDriver/findAndCursorsInNodeJSDriver/app-explicitCursor.js" beforeDir="false" afterPath="$PROJECT_DIR$/WeekThree/findAndCursorsInNodeJSDriver/findAndCursorsInNodeJSDriver/app-explicitCursor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeekThree/findAndCursorsInNodeJSDriver/findAndCursorsInNodeJSDriver/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/WeekThree/findAndCursorsInNodeJSDriver/findAndCursorsInNodeJSDriver/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeekThree/overviewOrTags/overviewOrTags/overviewOrTags.js" beforeDir="false" afterPath="$PROJECT_DIR$/WeekThree/overviewOrTags/overviewOrTags/overviewOrTags.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeekThree/queryOperatorsInNodeJSDriver/queryOperatorsInNodeJSDriver/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/WeekThree/queryOperatorsInNodeJSDriver/queryOperatorsInNodeJSDriver/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,39 +21,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="result.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WeekOne/all_together_now/views/result.html">
+      <file leaf-file-name="buildingQueryDocuments.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WeekThree/buildingQueryDocuments/buildingQueryDocuments/buildingQueryDocuments.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="38" />
+            <state relative-caret-position="-245">
+              <caret line="98" column="9" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toyStore3.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WeekTwo/reading_documents/reading_documents/toyStore3.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="toyStory3.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WeekTwo/reading_documents/reading_documents/toyStory3.js">
+      <file leaf-file-name="overviewOrTags.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WeekThree/overviewOrTags/overviewOrTags/overviewOrTags.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="toyStory3-awardsDocs.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WeekTwo/reading_documents/reading_documents/toyStory3-awardsDocs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            <state relative-caret-position="220">
+              <caret line="123" column="9" lean-forward="true" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,12 +49,15 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>var</find>
       <find>value</find>
+      <find>$regex</find>
+      <find>report</find>
+      <find>var</find>
     </findStrings>
     <replaceStrings>
-      <replace>const</replace>
       <replace>name</replace>
+      <replace>const</replace>
+      <replace>let</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -85,6 +80,11 @@
         <option value="$PROJECT_DIR$/WeekTwo/reading_documents/reading_documents/toyStory3.js" />
         <option value="$PROJECT_DIR$/WeekTwo/reading_documents/reading_documents/toyStore3.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/WeekThree/findAndCursorsInNodeJSDriver/findAndCursorsInNodeJSDriver/app.js" />
+        <option value="$PROJECT_DIR$/WeekThree/findAndCursorsInNodeJSDriver/findAndCursorsInNodeJSDriver/app-explicitCursor.js" />
+        <option value="$PROJECT_DIR$/WeekThree/queryOperatorsInNodeJSDriver/queryOperatorsInNodeJSDriver/app.js" />
+        <option value="$PROJECT_DIR$/WeekThree/buildingQueryDocuments/buildingQueryDocuments/buildingQueryDocuments.js" />
+        <option value="$PROJECT_DIR$/WeekThree/overviewOrTags/overviewOrTags/overviewOrTags.js" />
       </list>
     </option>
   </component>
@@ -100,6 +100,9 @@
     <handled-path value="$PROJECT_DIR$/WeekOne/hw1-3/node_modules" />
     <handled-path value="$PROJECT_DIR$/WeekOne/node_modules" />
     <handled-path value="$PROJECT_DIR$/WeekOne/post_express/node_modules" />
+    <handled-path value="$PROJECT_DIR$/WeekThree/buildingQueryDocuments/buildingQueryDocuments/node_modules" />
+    <handled-path value="$PROJECT_DIR$/WeekThree/findAndCursorsInNodeJSDriver/findAndCursorsInNodeJSDriver/node_modules" />
+    <handled-path value="$PROJECT_DIR$/WeekThree/overviewOrTags/overviewOrTags/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -108,6 +111,16 @@
       <path value="$PROJECT_DIR$/WeekOne/hw1-3/package.json" />
       <path value="$PROJECT_DIR$/WeekOne/package.json" />
       <path value="$PROJECT_DIR$/WeekOne/post_express/package.json" />
+      <path value="$PROJECT_DIR$/WeekThree/buildingQueryDocuments/buildingQueryDocuments/package.json" />
+      <path value="$PROJECT_DIR$/WeekThree/deleteOneAndDeleteMany/deleteOneAndDeleteMany/package.json" />
+      <path value="$PROJECT_DIR$/WeekThree/dotNotationInNodeJSDriver/dotNotationInNodeJSDriver/package.json" />
+      <path value="$PROJECT_DIR$/WeekThree/findAndCursorsInNodeJSDriver/findAndCursorsInNodeJSDriver/package.json" />
+      <path value="$PROJECT_DIR$/WeekThree/insertOneAndInsertMany/insertOneAndInsertMany/package.json" />
+      <path value="$PROJECT_DIR$/WeekThree/overviewOrTags/overviewOrTags/package.json" />
+      <path value="$PROJECT_DIR$/WeekThree/projectionInNodeJSDriver/package.json" />
+      <path value="$PROJECT_DIR$/WeekThree/queryOperatorsInNodeJSDriver/queryOperatorsInNodeJSDriver/package.json" />
+      <path value="$PROJECT_DIR$/WeekThree/regexOperatorInNodeJSDriver/regexOperatorInNodeJSDriver/package.json" />
+      <path value="$PROJECT_DIR$/WeekThree/sortSkipLimitInNodeJSDriver/sortSkipLimitInNodeJSDriver/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
@@ -118,6 +131,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -127,6 +141,63 @@
             <path>
               <item name="mongo_u_course" type="b2602c69:ProjectViewProjectNode" />
               <item name="mongo_u_course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo_u_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo_u_course" type="462c0819:PsiDirectoryNode" />
+              <item name="WeekThree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo_u_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo_u_course" type="462c0819:PsiDirectoryNode" />
+              <item name="WeekThree" type="462c0819:PsiDirectoryNode" />
+              <item name="buildingQueryDocuments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo_u_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo_u_course" type="462c0819:PsiDirectoryNode" />
+              <item name="WeekThree" type="462c0819:PsiDirectoryNode" />
+              <item name="buildingQueryDocuments" type="462c0819:PsiDirectoryNode" />
+              <item name="buildingQueryDocuments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo_u_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo_u_course" type="462c0819:PsiDirectoryNode" />
+              <item name="WeekThree" type="462c0819:PsiDirectoryNode" />
+              <item name="overviewOrTags" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo_u_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo_u_course" type="462c0819:PsiDirectoryNode" />
+              <item name="WeekThree" type="462c0819:PsiDirectoryNode" />
+              <item name="overviewOrTags" type="462c0819:PsiDirectoryNode" />
+              <item name="overviewOrTags" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo_u_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo_u_course" type="462c0819:PsiDirectoryNode" />
+              <item name="WeekThree" type="462c0819:PsiDirectoryNode" />
+              <item name="queryOperatorsInNodeJSDriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo_u_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo_u_course" type="462c0819:PsiDirectoryNode" />
+              <item name="WeekThree" type="462c0819:PsiDirectoryNode" />
+              <item name="queryOperatorsInNodeJSDriver" type="462c0819:PsiDirectoryNode" />
+              <item name="queryOperatorsInNodeJSDriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo_u_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo_u_course" type="462c0819:PsiDirectoryNode" />
+              <item name="WeekThree" type="462c0819:PsiDirectoryNode" />
+              <item name="sortSkipLimitInNodeJSDriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo_u_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo_u_course" type="462c0819:PsiDirectoryNode" />
+              <item name="WeekThree" type="462c0819:PsiDirectoryNode" />
+              <item name="sortSkipLimitInNodeJSDriver" type="462c0819:PsiDirectoryNode" />
+              <item name="sortSkipLimitInNodeJSDriver" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,20 +240,22 @@
       <workItem from="1534079572718" duration="12108000" />
       <workItem from="1534161126290" duration="1107000" />
       <workItem from="1534375044906" duration="1323000" />
+      <workItem from="1535288377710" duration="3358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14541000" />
+    <option name="totallyTimeSpent" value="18437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13979349" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -195,7 +268,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,62 +282,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WeekOne/templates/hello-world.js" />
-    <entry file="file://$PROJECT_DIR$/WeekOne/templates/hello-world.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WeekOne/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WeekOne/express.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WeekOne/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WeekOne/post_express/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WeekOne/hw1-1/dump/m101/hw1_1.bson">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="54" selection-start-column="54" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WeekOne/hw1-1/dump/m101/hw1_1.metadata.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WeekOne/all_together_now/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WeekOne/all_together_now/views/movies.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WeekOne/post_express/views/error_template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7" />
@@ -512,6 +528,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WeekTwo/reading_documents/reading_documents/toyStore3.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekThree/findAndCursorsInNodeJSDriver/findAndCursorsInNodeJSDriver/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekThree/findAndCursorsInNodeJSDriver/findAndCursorsInNodeJSDriver/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekThree/findAndCursorsInNodeJSDriver/findAndCursorsInNodeJSDriver/app-explicitCursor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekThree/theCrunchbaseDataset/theCrunchbaseDataset/diggCompany.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekThree/theCrunchbaseDataset/theCrunchbaseDataset/facebook.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekThree/queryOperatorsInNodeJSDriver/queryOperatorsInNodeJSDriver/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="33" lean-forward="true" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekThree/regexOperatorInNodeJSDriver/regexOperatorInNodeJSDriver/app-milestones.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekThree/sortSkipLimitInNodeJSDriver/sortSkipLimitInNodeJSDriver/app-sort.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekThree/buildingQueryDocuments/buildingQueryDocuments/buildingQueryDocuments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-245">
+          <caret line="98" column="9" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeekThree/overviewOrTags/overviewOrTags/overviewOrTags.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="123" column="9" lean-forward="true" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
